@@ -38,7 +38,7 @@ Script per automatizzare la riproduzione della soundboard di Discord a intervall
 - `manifest.json`: Esempio opzionale per estensione (bozza MV2)
 
 ## Avvertenze / Nota Etica
-Usa questo script responsabilmente. L'abuso della soundboard può risultare fastidioso per gli altri utenti o violare le linee guida di alcuni server. Verifica sempre le regole del server prima di usarlo.
+Usa questo script responsabilmente. L'abuso della soundboard può risultare fastidioso per gli altri utenti o violare le linee guida di alcuni server. Verifica sempre le regole del server prima di utilizzarlo.
 
 ## Esempio di Codice Principale
 ```javascript

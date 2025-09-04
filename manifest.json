@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "Discord Soundboard Automation",
+  "version": "1.0",
+  "description": "Automatizza la riproduzione della soundboard di Discord",
+  "permissions": [
+    "activeTab",
+    "https://discord.com/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["https://discord.com/*"],
+      "js": ["discord-soundboard-automation.js"]
+    }
+  ],
+  "web_accessible_resources": [
+    "*.js"
+  ]
+}
